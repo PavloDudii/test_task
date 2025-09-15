@@ -1,0 +1,82 @@
+[
+  {
+    "title": "The Epic Journey",
+    "content": "An adventurous tale across mountains and valleys",
+    "published_year": 2020,
+    "genre": "Fiction",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Exciting adventure story for everyone"
+  },
+  {
+    "title": "Night Mystery",
+    "content": "A thrilling suspense in a dark cityscape",
+    "published_year": 2019,
+    "genre": "Mystery",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Detective story full of unexpected twists"
+  },
+  {
+    "title": "Beyond Science",
+    "content": "Exploring latest scientific discoveries",
+    "published_year": 2021,
+    "genre": "Science Fiction",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Educational yet futuristic adventure"
+  },
+  {
+    "title": "Love in Paris",
+    "content": "Romantic story set in Paris streets",
+    "published_year": 2018,
+    "genre": "Romance",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Heartwarming love tale"
+  },
+  {
+    "title": "The Hidden World",
+    "content": "Adventure in a mysterious land",
+    "published_year": 2017,
+    "genre": "Fiction",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Classic tale of exploration"
+  },
+  {
+    "title": "Thrill of the Night",
+    "content": "Dark thriller to keep you awake",
+    "published_year": 2022,
+    "genre": "Thriller",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Page-turner suspense novel"
+  },
+  {
+    "title": "Magical Realms",
+    "content": "A journey through enchanted lands",
+    "published_year": 2019,
+    "genre": "Fantasy",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Fantasy adventure for teens"
+  },
+  {
+    "title": "Leonardo's Life",
+    "content": "Biography of Leonardo da Vinci",
+    "published_year": 2016,
+    "genre": "Biography",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Inspiring story of a genius"
+  },
+  {
+    "title": "Ocean Secrets",
+    "content": "Exploring the deep oceans",
+    "published_year": 2020,
+    "genre": "Non-Fiction",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Marine exploration and education"
+  },
+  {
+    "title": "Train Mystery",
+    "content": "Murder mystery unfolding on a train",
+    "published_year": 2015,
+    "genre": "Mystery",
+    "author_id": "c08d3389-4c20-4d4b-8508-7f5b283f71a8",
+    "description": "Classic whodunit suspense"
+  }
+]

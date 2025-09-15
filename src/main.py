@@ -73,6 +73,6 @@ async def health_check():
 async def root():
     return {
         "message": "Book Management System",
-        "docs": "/api/v1/docs",
+        "docs": "/docs",
         "health": "/health",
     }
